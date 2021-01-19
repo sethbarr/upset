@@ -1,0 +1,16 @@
+{
+	"file": "/c/Users/Seth/Documents/GitHub/Upset_BeeEvolution/upset/data/AllLineage_Random_GO/AllLineage_Random_GO.tsv",
+	"name": "Overrepresented GO terms in all lineages and all classes ",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GO term" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 13 }
+    ],
+    "author": "Lauren Mee & Seth Barribeau",
+    "description": "Over represented GO terms under different PAML models ",
+    "source": "Barribeau Lab, University of Liverpool"
+}
