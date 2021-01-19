@@ -1,6 +1,6 @@
 {
-	"file": "/c/Users/Seth/Documents/GitHub/Upset_BeeEvolution/upset/data/GenesUnderSel_All/GenesUnderSel_All.tsv",
-	"name": "Overrepresented GO terms in all lineages and all classes ",
+	"file": "data/GenesUnderSel_All/GenesUnderSel_All.tsv",
+	"name": "All genes under selection ",
 	"header": 0,
 	"separator": "\t",
 	"skip": 0,

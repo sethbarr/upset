@@ -1,6 +1,6 @@
 {
-	"file": "/c/Users/Seth/Documents/GitHub/Upset_BeeEvolution/upset/data/AllSocialities_Immune_GO/AllSocialities_Immune_GO.tsv",
-	"name": "Overrepresented GO terms in all lineages and all classes ",
+	"file": "data/AllSocialities_Immune_GO/AllSocialities_Immune_GO.tsv",
+	"name": "Overrepresented GO terms in all socialities and immune classes ",
 	"header": 0,
 	"separator": "\t",
 	"skip": 0,

@@ -1,5 +1,5 @@
 {
-	"file": "/c/Users/Seth/Documents/GitHub/Upset_BeeEvolution/upset/data/AllLineage_AllClass_GO/AllLineage_AllClass_GO.tsv",
+	"file": "data/AllLineage_AllClass_GO/AllLineage_AllClass_GO.tsv",
 	"name": "Overrepresented GO terms in all lineages and all classes ",
 	"header": 0,
 	"separator": "\t",
